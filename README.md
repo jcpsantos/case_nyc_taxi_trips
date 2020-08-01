@@ -15,3 +15,5 @@ $ pip install -r requirements.txt
 Em toda analise foi utilizado o **Spark 2.4.5**, na parte de visualização foi utiliza a biblioteca <a href="https://plotly.com/python/">Plotly</a>, 
 na parte de simulação de streaming de dados foi utilizado o **Spark Streaming** em conjunto com o  **Kafka 2.2** e o 
 **Flume 1.9** utilizando o package <a href="https://mvnrepository.com/artifact/org.apache.spark/spark-streaming-kafka-0-8_2.11/2.2.0">Spark-Streming-Kafka</a>
+
+- <a href="https://github.com/jcpsantos/case_nyc_taxi_trips/blob/master/case_datasprints.ipynb">Notebook</a>
